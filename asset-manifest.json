@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/magic_quadrant/static/css/main.2089c034.chunk.css",
+    "main.js": "/magic_quadrant/static/js/main.3e88eba5.chunk.js",
+    "main.js.map": "/magic_quadrant/static/js/main.3e88eba5.chunk.js.map",
+    "runtime-main.js": "/magic_quadrant/static/js/runtime-main.4651cde3.js",
+    "runtime-main.js.map": "/magic_quadrant/static/js/runtime-main.4651cde3.js.map",
+    "static/js/2.f72c35d2.chunk.js": "/magic_quadrant/static/js/2.f72c35d2.chunk.js",
+    "static/js/2.f72c35d2.chunk.js.map": "/magic_quadrant/static/js/2.f72c35d2.chunk.js.map",
+    "index.html": "/magic_quadrant/index.html",
+    "static/css/main.2089c034.chunk.css.map": "/magic_quadrant/static/css/main.2089c034.chunk.css.map",
+    "static/js/2.f72c35d2.chunk.js.LICENSE.txt": "/magic_quadrant/static/js/2.f72c35d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4651cde3.js",
+    "static/js/2.f72c35d2.chunk.js",
+    "static/css/main.2089c034.chunk.css",
+    "static/js/main.3e88eba5.chunk.js"
+  ]
+}
